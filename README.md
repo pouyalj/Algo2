@@ -1,6 +1,6 @@
-#The Traveling Salesman Problem
+# The Traveling Salesman Problem
 
-##TSP running on the "Shortest Paths Revisited, NP-Complete Problems and What To Do About Them" on Coursera  
+## TSP running on the "Shortest Paths Revisited, NP-Complete Problems and What To Do About Them" on Coursera  
 
 Algorithms: Design and Analysis  
 
