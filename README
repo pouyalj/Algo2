@@ -7,4 +7,4 @@ Algorithms: Design and Analysis
 Added parallization to the the source code on which this is forked from  
 
 compile using  
-g++ -o a.out -fopenmp c4w2a1.cpp
+`g++ -o a.out -fopenmp c4w2a1.cpp`
